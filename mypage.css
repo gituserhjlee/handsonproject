@@ -1,0 +1,110 @@
+body{text-align: center;
+}
+#header{
+    width:1200px;
+    position:relative;
+    margin:0 auto;
+}
+.top-menu a {
+    text-decoration: none;
+    color:black;
+    font-size:14px;
+    font-family: 'Song Myung', serif;
+
+}
+.top-menu a:hover{
+    color:cornflowerblue;
+}
+.top-menu{
+   text-align:right;
+}
+
+
+.top-wrap{
+    height:100px;
+    position: relative;
+    border-bottom:1px solid black;
+}
+
+section div.welcom{
+    font-family: 'Song Myung', serif;
+    color:black;
+    background:white;
+    border-bottom:1px solid black;
+}
+section div.content{
+    float:right;
+    background:rgb(240, 236, 236);
+    width:1200px;
+    font-family: 'Song Myung', serif;
+    border-left:1px solid black;
+    font-size:25px;
+    
+}
+ button{
+    width:6em;
+    background:white;
+    color:cornflowerblue;
+    border: 3px solid cornflowerblue;
+    border-radius: 20px;
+    font-family: 'Song Myung', serif;
+    font-size: 25px;  
+    float:right;
+}
+ button:hover{
+    background:cornflowerblue;
+    color:white;
+}
+
+
+section .content p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    border-bottom:1px solid black;
+    
+
+}
+section label{
+    float: left;
+    line-height: 50px;
+    color: black;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: right;
+    margin-right: 15px;
+    width: 80px;
+}
+section b{
+    
+    color: #292929; 
+    font-size: 24px;
+    text-align:right;
+    font-family: 'Nanum Myeongjo', serif;
+   font-weight:bold;
+}
+section b:hover{
+    color:cornflowerblue;
+}
+
+strong{
+    color:cornflowerblue;
+}
+aside{
+       width:200px;
+       height:cover;
+        float:left;       
+        text-align: left;
+        
+    }
+
+.navilist li {
+    list-style:none;
+
+}
+ .highlight button{
+    background:cornflowerblue;
+    color:white;
+}
