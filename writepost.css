@@ -1,0 +1,34 @@
+form.write input.title{
+    width: 100%;
+    height: 20px;
+    line-height: 20px;
+    color: #292929;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Nanum Myeongjo', serif;
+
+}
+form.write textarea{
+    width: 100%;
+    height:250px;
+    color: #292929;
+    font-size: 14px;
+    resize: none;
+    vertical-align: middle;
+    letter-spacing: -1px;
+    font-family: 'Nanum Myeongjo', serif;
+
+}
+form.write input{
+    background: white;
+    color:cornflowerblue;
+    font-weight:bold;
+    width:6em;
+    font-size:20px;
+    border-radius: 30px;
+
+}
+form.write input:hover{
+    color:white;
+    background:cornflowerblue;
+}
